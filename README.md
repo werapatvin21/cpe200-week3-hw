@@ -36,7 +36,9 @@ Methods:
     * if the modified (new) value does not satisfy with the above conditions, use the CURRENT value.
 * Get Methods : for reading value of each property (4 methods)
 * toString() method : for printing the student object's state which returns a string in the following pattern:
-```     "Sanguan Sornjai (590611702) was born in 1999 is an INACTIVE student."  ```
+```
+      "Sanguan Sornjai (590611702) was born in 1999 is an INACTIVE student."
+```
 
 ##Course Class
 Attributes:
@@ -58,7 +60,10 @@ Methods:
     * if the modified (new) value does not satisfy with the above conditions, use the CURRENT value.
 * Get Methods : for reading value of each property (5 methods)
 * toString() method : for printing the class object's state which returns a string in the following pattern:
-```     "CPE200-OOP (261200), Teacher: Pruet Boonma, has ONE student, [maximum: 60]"  ```
+```
+      "CPE200-OOP (261200), Teacher: Pruet Boonma, has ONE student, [maximum: 60]"
+```
+
 ###Note:
 You can match a string to a specified pattern using regular expression. Find more detail on the topic here: 
 http://www.tutorialspoint.com/java/java_regular_expressions.htm
